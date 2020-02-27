@@ -1,5 +1,3 @@
-# hello-world
+# Test1
 
-Hey Guys!
-This is Mohammed, who hates study. 
-But I like dealing with computer.
+CMCS 110 GitHub assignment Haque, Mohammed. This is my private repository in GitHub.
